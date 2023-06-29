@@ -1,1 +1,3 @@
 game.Workspace.YourUsername.JumpPower = HoweverHeighYouWantToJumpInANumber
+
+game.Workspace.YourUsername.JumpHeight = HoweverHeighYouWantToJumpInANumber
