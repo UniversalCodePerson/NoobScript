@@ -1,1 +1,1 @@
-game.Workspace.**YourUsername**.Humanoid.WalkSpeed = **WhateverSpeedYouWant**
+game.Workspace.YourUsername.Humanoid.WalkSpeed = WhateverSpeedYouWant
