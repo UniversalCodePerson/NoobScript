@@ -1,5 +1,4 @@
-## *NoobScript Hub*
-This github page is full of exciting fun scripts you can use on roblox!
+![](https://github.com/UniversalCodePerson/NoobScript/blob/main/noobscript%20banner%20(2).png)
 
 ## *Byfron Bypass [Important!]*
  **1)** First install a **Executor** that has been confirmed to work on the **64-bit Roblox Client**
