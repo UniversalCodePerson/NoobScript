@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GXNATION/Main-script/main/de%20taxi%20event"))()

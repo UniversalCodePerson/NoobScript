@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IrregularVynixu/Vynixius/main/Bypasses", true))()
