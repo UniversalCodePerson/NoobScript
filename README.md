@@ -1,5 +1,3 @@
-![](https://github.com/UniversalCodePerson/NoobScript/blob/main/noobscript%20banner%20(2).png)
-
 ## *Byfron Bypass [Important!]*
  **1)** First install a **Executor** that has been confirmed to work on the **64-bit Roblox Client**
  
