@@ -8,3 +8,5 @@
  **4)** After run the **Roblox Application** via the **Microsoft Store** and then open the **Executor** and Inject it
  
  **5)** Finally get a script and have **fun!**
+
+[REMINDER THE RANDOM SCRIPTS FOLDER IS JUST SOMEOF MY SCRIPT IN MY SYNAPSE X SCRIPTS FOLDER LOL]
