@@ -5,6 +5,6 @@
  
  **3)** Then after open the **Microsft Store** and install the **Roblox Application**
  
- **4)** After run the **Roblox Application** via the **Microsoft Store** and then open the **Executor** and Inget it
+ **4)** After run the **Roblox Application** via the **Microsoft Store** and then open the **Executor** and Inject it
  
  **5)** Finally get a script and have **fun!**
